@@ -1,2 +1,2 @@
 # Early-Detection-of-Diabetic-Retinopathy-Using-Convolutional-Neural-Networks
-Built a CNN-based deep learning model using Python and TensorFlow for multi-class retinal image classification. • Applied preprocessing, data augmentation, and fine-tuning on the APTOS dataset; achieved 92.9% accuracy. • Published research paper in an IEEE conference. link :- https://ieeexplore.ieee.org/document/11211407
+Built a CNN-based deep learning model using Python and TensorFlow for multi-class retinal image classification. • Applied preprocessing, data augmentation, and fine-tuning on the APTOS dataset; achieved 94.0% accuracy. • Published research paper in an IEEE conference. link :- https://ieeexplore.ieee.org/document/11211407
